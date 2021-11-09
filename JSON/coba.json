@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Fadhlu Ibnu 'Abbad",
+    "umur": 16,
+    "nis": "3103120079",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "sandhika",
+      "pembimbing2": "galih"
+    }
+  },
+  {
+    "nama": "Fadhlu Ibnu 'Abbad",
+    "umur": 16,
+    "nis": "3103120079",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "sandhika",
+      "pembimbing2": "galih"
+    }
+  }
+]
